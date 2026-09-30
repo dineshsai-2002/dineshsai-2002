@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Data Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analyst+Intern+%7C+Working+with+real+business+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Built+5%2B+Power+BI+dashboards+for+10%2B+YouTube+channels;Cut+manual+reporting+time+by+~40%25" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,9 @@
 
 ## 👋 About Me
 
-I'm currently working as a **Data Analyst Intern** in **Hyderabad, India**, with hands-on experience in **Excel, SQL, Python, Power BI and DAX**. I enjoy cleaning messy data, exploring it to find patterns, and building interactive dashboards that turn numbers into clear, actionable insights.
+Currently a **Data Analyst Intern**, where I've built **5+ Power BI dashboards** and cut manual reporting time by **~40%**.
+
+Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Python, Power BI and DAX**. I enjoy cleaning messy data, exploring it to find patterns, and building interactive dashboards that turn numbers into clear, actionable insights.
 
 ## 📊 What I Do
 
