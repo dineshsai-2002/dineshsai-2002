@@ -65,16 +65,6 @@ I'm a Data Analyst based in **Hyderabad, India**, with hands-on experience in **
 | [Online Learning Platform SQL Analysis](https://github.com/dineshsai-2002/online-learning-platform-sql-analysis) | Student enrolment and course engagement analytics | MySQL, Excel |
 | [50 Days Coding Challenge](https://github.com/dineshsai-2002/50Days-Coding-Challenge) | Daily Python problem-solving practice | Python, Jupyter |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dineshsai-2002&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dineshsai-2002&theme=tokyonight" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dineshsai-2002&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ## 📚 Currently Learning
 
 - Advanced **DAX** and data modelling in Power BI
