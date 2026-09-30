@@ -28,7 +28,7 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
 
 ## ⚡ Impact / Experience
 
-**Data Analyst Intern** @ **iACE** · 2024 – Present
+**Data Analyst Intern** @ **iACE** · 2026 – Present
 - Built **5+ interactive Power BI dashboards** analysing subscriber growth and video engagement across **10+ YouTube channels**
 - Improved data accuracy by **~20%** and reduced manual reporting time by **~40%**
 - Tools: Power BI, Excel, DAX, Power Query
