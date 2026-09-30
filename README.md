@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Data Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Open+to+Data+Analyst+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analyst+Intern+%7C+Working+with+real+business+data" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm a Data Analyst based in **Hyderabad, India**, with hands-on experience in **Excel, SQL, Python, Power BI and DAX**. I enjoy cleaning messy data, exploring it to find patterns, and building interactive dashboards that turn numbers into clear, actionable insights.
+I'm currently working as a **Data Analyst Intern** in **Hyderabad, India**, with hands-on experience in **Excel, SQL, Python, Power BI and DAX**. I enjoy cleaning messy data, exploring it to find patterns, and building interactive dashboards that turn numbers into clear, actionable insights.
 
 ## 📊 What I Do
 
@@ -26,7 +26,7 @@ I'm a Data Analyst based in **Hyderabad, India**, with hands-on experience in **
 
 ## ⚡ Impact / Experience
 
-**Data Analyst Intern** · 2024
+**Data Analyst Intern** · 2024 – Present
 - Built **5+ interactive Power BI dashboards** analysing subscriber growth and video engagement across **10+ YouTube channels**
 - Improved data accuracy by **~20%** and reduced manual reporting time by **~40%**
 - Tools: Power BI, Excel, DAX, Power Query
