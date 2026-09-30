@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Data Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Built+5%2B+Power+BI+dashboards+for+10%2B+YouTube+channels;Cut+manual+reporting+time+by+~40%25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analyst+Intern+%40+IACE" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Currently a **Data Analyst Intern at IACE**. In a previous internship, I built **5+ Power BI dashboards** and cut manual reporting time by **~40%**.
+Currently working as a **Data Analyst Intern at IACE**.
 
 Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Python, Power BI and DAX**. I enjoy cleaning messy data, exploring it to find patterns, and building interactive dashboards that turn numbers into clear, actionable insights.
 
@@ -26,34 +26,10 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
 - 🗄️ **SQL Analytics**: advanced queries with CTEs, joins and window functions
 - 📈 **Dashboards & Reporting**: interactive Power BI and Excel dashboards with DAX-driven KPIs
 
-## ⚡ Impact / Experience
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dashboards_Built-5%2B-2E9EF7?style=for-the-badge" alt="5+ dashboards built"/>
-  <img src="https://img.shields.io/badge/Channels_Analysed-10%2B-8A2BE2?style=for-the-badge" alt="10+ channels analysed"/>
-  <img src="https://img.shields.io/badge/Data_Accuracy-%2B20%25-2EA44F?style=for-the-badge" alt="+20% data accuracy"/>
-  <img src="https://img.shields.io/badge/Reporting_Time-%E2%88%9240%25-F97316?style=for-the-badge" alt="-40% reporting time"/>
-</p>
+## ⚡ Experience
 
 ### 💼 Data Analyst Intern · IACE
 📅 *2026 – Present*
-
-### 💼 Data Analyst Intern
-📅 *2024*
-
-Turned YouTube channel data into dashboards that showed how channels grew and how audiences engaged.
-
-- 📊 **Built 5+ interactive Power BI dashboards** tracking subscriber growth and video engagement across **10+ YouTube channels**
-- ✅ **Improved data accuracy by ~20%** by cleaning and standardising raw channel data with Power Query
-- ⏱️ **Cut manual reporting time by ~40%** by replacing manual Excel reports with automated, refreshable dashboards
-- 🧮 **Wrote DAX measures** for engagement KPIs such as growth trends, views and interaction rates
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/DAX-2E9EF7?style=flat-square" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square" alt="Power Query"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
 
 ## 🛠️ Tech Stack
 
@@ -84,7 +60,7 @@ Turned YouTube channel data into dashboards that showed how channels grew and ho
 |---|---|---|
 | [Banking Data Analysis](https://github.com/dineshsai-2002/Banking-Analysis-Project) | Customer and transaction analysis to uncover banking trends | SQL, Python, Pandas, Seaborn |
 | [Sales Performance Dashboard](https://github.com/dineshsai-2002/Sales-Performance-Dashboard) | Analysed 10,000+ transactions across 12+ KPIs | Power BI, Excel, DAX, Power Query |
-| [YouTube Data Analysis](https://github.com/dineshsai-2002/You-tube-data-analysis-report) | Channel performance, subscriber growth and engagement metrics | Power BI, Excel |
+| [YouTube Data Analysis](https://github.com/dineshsai-2002/You-tube-data-analysis-report) | 5+ Power BI dashboards on subscriber growth and engagement across 10+ YouTube channels | Power BI, Excel, DAX, Power Query |
 | [Online Food Delivery SQL Analysis](https://github.com/dineshsai-2002/online-food-delivery-sql-analysis) | Business insights using CTEs and window functions | SQL |
 | [Online Learning Platform SQL Analysis](https://github.com/dineshsai-2002/online-learning-platform-sql-analysis) | Student enrolment and course engagement analytics | MySQL, Excel |
 | [50 Days Coding Challenge](https://github.com/dineshsai-2002/50Days-Coding-Challenge) | Daily Python problem-solving practice | Python, Jupyter |
