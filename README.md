@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Currently a **Data Analyst Intern at IACE**, where I've built **5+ Power BI dashboards** and cut manual reporting time by **~40%**.
+Currently a **Data Analyst Intern at IACE**. In a previous internship, I built **5+ Power BI dashboards** and cut manual reporting time by **~40%**.
 
 Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Python, Power BI and DAX**. I enjoy cleaning messy data, exploring it to find patterns, and building interactive dashboards that turn numbers into clear, actionable insights.
 
@@ -36,9 +36,12 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
 </p>
 
 ### 💼 Data Analyst Intern · IACE
-📅 *2026 – Present* · 📍 *Hyderabad, India*
+📅 *2026 – Present*
 
-Turning YouTube channel data into dashboards that show how channels grow and how audiences engage.
+### 💼 Data Analyst Intern
+📅 *2024*
+
+Turned YouTube channel data into dashboards that showed how channels grew and how audiences engaged.
 
 - 📊 **Built 5+ interactive Power BI dashboards** tracking subscriber growth and video engagement across **10+ YouTube channels**
 - ✅ **Improved data accuracy by ~20%** by cleaning and standardising raw channel data with Power Query
