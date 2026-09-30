@@ -28,10 +28,29 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
 
 ## ⚡ Impact / Experience
 
-**Data Analyst Intern** @ **IACE** · 2026 – Present
-- Built **5+ interactive Power BI dashboards** analysing subscriber growth and video engagement across **10+ YouTube channels**
-- Improved data accuracy by **~20%** and reduced manual reporting time by **~40%**
-- Tools: Power BI, Excel, DAX, Power Query
+<p align="center">
+  <img src="https://img.shields.io/badge/Dashboards_Built-5%2B-2E9EF7?style=for-the-badge" alt="5+ dashboards built"/>
+  <img src="https://img.shields.io/badge/Channels_Analysed-10%2B-8A2BE2?style=for-the-badge" alt="10+ channels analysed"/>
+  <img src="https://img.shields.io/badge/Data_Accuracy-%2B20%25-2EA44F?style=for-the-badge" alt="+20% data accuracy"/>
+  <img src="https://img.shields.io/badge/Reporting_Time-%E2%88%9240%25-F97316?style=for-the-badge" alt="-40% reporting time"/>
+</p>
+
+### 💼 Data Analyst Intern · IACE
+📅 *2026 – Present* · 📍 *Hyderabad, India*
+
+Turning YouTube channel data into dashboards that show how channels grow and how audiences engage.
+
+- 📊 **Built 5+ interactive Power BI dashboards** tracking subscriber growth and video engagement across **10+ YouTube channels**
+- ✅ **Improved data accuracy by ~20%** by cleaning and standardising raw channel data with Power Query
+- ⏱️ **Cut manual reporting time by ~40%** by replacing manual Excel reports with automated, refreshable dashboards
+- 🧮 **Wrote DAX measures** for engagement KPIs such as growth trends, views and interaction rates
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-2E9EF7?style=flat-square" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
 
 ## 🛠️ Tech Stack
 
