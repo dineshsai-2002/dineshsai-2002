@@ -31,19 +31,12 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
 ### 💼 Data Analyst Intern · IACE Publications
 📅 *2026 – Present*
 
-- Analyse student, admission and counselling data using **SQL, PostgreSQL and Metabase** to identify missing, incomplete and inconsistent information
-- Build and maintain **data-quality dashboards** tracking student information, ID-card readiness, branch progress and admission records
-- Write and optimise **SQL queries** to extract, validate and analyse data from CRM databases
-- Monitor data quality across multiple fields and flag records that need correction or follow-up
-- Create **branch-wise reports and KPIs** so teams can track completion progress and pending student details
-- Develop actionable **student action lists** that help non-technical teams find and resolve missing information
-- Work with **Google Sheets and APIs** to automate data updates and reporting workflows
-- Support the development and maintenance of **data pipelines and automated reporting processes**
-- Validate dashboard numbers against source data to ensure **accuracy and consistency** before reporting to senior team members
-- Use **Git and GitHub** for version control and project/workflow management
-- Use **Claude Code and AI-assisted development tools** to explore codebases, analyse data workflows, troubleshoot issues and improve reporting processes
-- Collaborate with senior analysts to turn business requirements into **data-driven reports and dashboards**
-- Present analysis in **simple, non-technical formats** so business teams can easily understand and take action
+- Analyse student, admission and counselling data using **SQL, PostgreSQL and Metabase** to find missing, incomplete and inconsistent records
+- Build and maintain **data-quality dashboards** and **branch-wise KPIs** tracking student information, ID-card readiness and admission progress
+- Write and optimise **SQL queries** to extract and validate data from CRM databases
+- Automate data updates and reporting with **Google Sheets, APIs** and data pipelines
+- Create **student action lists** and plain-language reports so non-technical teams can act on the data
+- Use **Git/GitHub** and **Claude Code** to manage workflows and improve reporting processes
 
 ## 🛠️ Tech Stack
 
@@ -62,14 +55,6 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
 </p>
-
-## 💼 Current Work
-
-- 🗄️ Running data-quality checks on student and admission records with **SQL & PostgreSQL**
-- 📊 Building branch-wise KPI and data-quality dashboards in **Metabase**
-- 🔄 Automating reporting workflows with **Google Sheets, APIs** and data pipelines
-- ✅ Turning analysis into clear **student action lists** for non-technical teams
-- 🤖 Using **Claude Code** and AI-assisted tools to troubleshoot and improve reporting processes
 
 ## 🚀 Featured Projects
 
