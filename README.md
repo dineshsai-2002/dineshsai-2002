@@ -60,6 +60,7 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
 
 | Project | What it does | Tools |
 |---|---|---|
+| **Student Data-Quality Dashboard** *(current · IACE Publications)* | Tracks missing and inconsistent student, admission and ID-card data with branch-wise KPIs and student action lists for follow-up | SQL, PostgreSQL, Metabase, Google Sheets |
 | [Banking Data Analysis](https://github.com/dineshsai-2002/Banking-Analysis-Project) | Customer and transaction analysis to uncover banking trends | SQL, Python, Pandas, Seaborn |
 | [Sales Performance Dashboard](https://github.com/dineshsai-2002/Sales-Performance-Dashboard) | Analysed 10,000+ transactions across 12+ KPIs | Power BI, Excel, DAX, Power Query |
 | [YouTube Data Analysis](https://github.com/dineshsai-2002/You-tube-data-analysis-report) | 5+ Power BI dashboards on subscriber growth and engagement across 10+ YouTube channels | Power BI, Excel, DAX, Power Query |
