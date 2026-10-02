@@ -1,4 +1,4 @@
-<h1 align="center">Dinesh Sai Kodavalluri</h1>
+<h1 align="center">Kodavalluri Dinesh Sai</h1>
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Data Analytics</h3>
 
 <p align="center">
