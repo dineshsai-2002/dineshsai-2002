@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Data Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analyst+Intern+%40+IACE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analyst+Intern+%40+IACE+Publications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Currently working as a **Data Analyst Intern at IACE**.
+Currently working as a **Data Analyst Intern at IACE Publications**, where I analyse student, admission and counselling data with **SQL, PostgreSQL and Metabase** and build data-quality dashboards that help teams act on missing or inconsistent records.
 
 Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Python, Power BI and DAX**. I enjoy cleaning messy data, exploring it to find patterns, and building interactive dashboards that turn numbers into clear, actionable insights.
 
@@ -28,8 +28,22 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
 
 ## ⚡ Experience
 
-### 💼 Data Analyst Intern · IACE
+### 💼 Data Analyst Intern · IACE Publications
 📅 *2026 – Present*
+
+- Analyse student, admission and counselling data using **SQL, PostgreSQL and Metabase** to identify missing, incomplete and inconsistent information
+- Build and maintain **data-quality dashboards** tracking student information, ID-card readiness, branch progress and admission records
+- Write and optimise **SQL queries** to extract, validate and analyse data from CRM databases
+- Monitor data quality across multiple fields and flag records that need correction or follow-up
+- Create **branch-wise reports and KPIs** so teams can track completion progress and pending student details
+- Develop actionable **student action lists** that help non-technical teams find and resolve missing information
+- Work with **Google Sheets and APIs** to automate data updates and reporting workflows
+- Support the development and maintenance of **data pipelines and automated reporting processes**
+- Validate dashboard numbers against source data to ensure **accuracy and consistency** before reporting to senior team members
+- Use **Git and GitHub** for version control and project/workflow management
+- Use **Claude Code and AI-assisted development tools** to explore codebases, analyse data workflows, troubleshoot issues and improve reporting processes
+- Collaborate with senior analysts to turn business requirements into **data-driven reports and dashboards**
+- Present analysis in **simple, non-technical formats** so business teams can easily understand and take action
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +55,7 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -50,9 +65,11 @@ Based in **Hyderabad, India**, I have hands-on experience in **Excel, SQL, Pytho
 
 ## 💼 Current Work
 
-- 🗄️ Building analytics workflows with **PostgreSQL** and self-service dashboards in **Metabase**
-- 🤖 Using **Claude Code** to speed up SQL, Python and documentation work
-- 📁 Expanding my portfolio with end-to-end SQL and Python case studies
+- 🗄️ Running data-quality checks on student and admission records with **SQL & PostgreSQL**
+- 📊 Building branch-wise KPI and data-quality dashboards in **Metabase**
+- 🔄 Automating reporting workflows with **Google Sheets, APIs** and data pipelines
+- ✅ Turning analysis into clear **student action lists** for non-technical teams
+- 🤖 Using **Claude Code** and AI-assisted tools to troubleshoot and improve reporting processes
 
 ## 🚀 Featured Projects
 
